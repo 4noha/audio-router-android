@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioRouter</string>
+    <string name="searching">Mac を探しています…</string>
+    <string name="found_prefix">見つかった Mac:</string>
+    <string name="peer">接続先 Mac</string>
+    <string name="peer_none">未発見</string>
+    <string name="rescan">再スキャン</string>
+    <string name="slot">スロット</string>
+    <string name="status">状態</string>
+    <string name="status_idle">未接続</string>
+    <string name="status_connecting">接続中…</string>
+    <string name="status_running">送信中</string>
+    <string name="status_paired">ペアリング済</string>
+    <string name="status_error">エラー</string>
+    <string name="permission_mic">マイク権限が必要です</string>
+</resources>

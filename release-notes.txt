@@ -1,0 +1,5 @@
+v0.1.9 (versionCode 9) — Service 仕様を「通知から停止」固定
+
+- v0.1.8 で入れた onTaskRemoved 自動停止を撤回。**Service は常駐継続**。
+- 明示停止は **通知の「停止」ボタン**のみ（Activity を払っても継続）。
+- START_STICKY に戻し、OS による自動復活を再有効化。

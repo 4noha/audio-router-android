@@ -1,0 +1,23 @@
+*.iml
+.gradle/
+.kotlin/
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea
+.DS_Store
+build/
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Firebase service account JSON は機微情報
+firebase-appdistribution.json
+
+# === エージェントのローカル設定(PC ごとの判断なので載せない) ===
+.codex/
